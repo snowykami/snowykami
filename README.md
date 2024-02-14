@@ -2,11 +2,12 @@
 #### I'm a college student at CQUPT
 #### Developing is not my professional job, only a hobby.
 #### Loves playing Minecraft, is a Minecraft developer.
+#### Leader of Liteyuki Studio and Snowyfirefly Studio
 #### Contact me:
 - QQ: 2751454815
 - bilibili: [SnowyKami](https://space.bilibili.com/233938750)
 - Telegram: [@snowykami1024](https://t.me/snowykami1024)
-- X: [@snowykami1145]([https://](https://twitter.com/snowykami1145))
+- X: [@snowykami1145](https://https://twitter.com/snowykami1145)
 - Email: snowykami@outlook.com
 - LiteyukiMail: x@mail.liteyuki.icu
 
