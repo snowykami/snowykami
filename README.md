@@ -1,5 +1,4 @@
 # Hi, This is SnowyKami
-#### I'm a college student at CQUPT
 #### Developing is not my professional job, only a hobby.
 #### Loves playing Minecraft, is a Minecraft developer.
 #### Leader of Liteyuki Studio and Snowyfirefly Studio
