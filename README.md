@@ -1,4 +1,4 @@
-# Hi, This is SnowyKami
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+This+is+SnowyKami)](https://git.io/typing-svg)
 #### Developing is not my professional job, only a hobby.
 #### Loves playing Minecraft, is a Minecraft developer.
 #### Leader of Liteyuki Studio and Snowyfirefly Studio
