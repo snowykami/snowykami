@@ -1,8 +1,14 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+This+is+SnowyKami)](https://git.io/typing-svg)
 
-<img align="center" src="https://github-stats.liteyuki.icu/?username=snowykami&theme=liteyuki_gradient&show_icons=true&include_all_commits=true&locale=cn" alt="SnowyKami's github stats" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowykami&background=000000&stroke=d0e9ff&ring=a2d8f4&dates=d0e9ff&sideNums=a2d8f4&currStreakNum=a2d8f4&excludeDaysLabel=d0e9ff&sideLabels=d0e9ffdd&currStreakLabel=a2d8f4" />
-<img align="center" src="https://github-stats.liteyuki.icu/top-langs/?username=snowykami&layout=compact&theme=liteyuki_gradient&hide_border=true&locale=cn"/>
+<div align="center">
+<img src="https://github-stats.liteyuki.icu/?username=snowykami&theme=liteyuki_gradient&show_icons=true&include_all_commits=true&locale=cn" alt="SnowyKami's github stats" />
+</div>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snowykami&background=000000&stroke=d0e9ff&ring=a2d8f4&dates=d0e9ff&sideNums=a2d8f4&currStreakNum=a2d8f4&excludeDaysLabel=d0e9ff&sideLabels=d0e9ffdd&currStreakLabel=a2d8f4" />
+</div>
+<div align="center">
+<img src="https://github-stats.liteyuki.icu/top-langs/?username=snowykami&layout=compact&theme=liteyuki_gradient&hide_border=true&locale=cn"/>
+</div>
 
 #### Developing is not my professional job, only a hobby.
 #### Loves playing Minecraft, is a Minecraft developer.
