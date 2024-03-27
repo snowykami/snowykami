@@ -1,4 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+This+is+SnowyKami)](https://git.io/typing-svg)
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=snowykami&show_icons=true&include_all_commits=true&icon_color=d0e9ff&bg_color=000000&title_color=a2d8f4&text_color=a2d8f4&hide_border=true" alt="SnowyKami's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowykami&layout=compact&icon_color=d0e9ff&bg_color=000000&title_color=a2d8f4&text_color=a2d8f4&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 #### Developing is not my professional job, only a hobby.
 #### Loves playing Minecraft, is a Minecraft developer.
 #### Leader of Liteyuki Studio and Snowyfirefly Studio
@@ -11,9 +15,6 @@
 - LiteyukiMail: x@mail.liteyuki.icu
 
 #### [My Website](https://snowykami.me) | [My Blog](https://blog.snowykami.me)
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=snowykami&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="SnowyKami's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowykami&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" alt="go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
