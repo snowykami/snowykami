@@ -3,7 +3,7 @@
 <center>
 <img src="https://github-stats.liteyuki.icu/?username=snowykami&theme=liteyuki_gradient&show_icons=true&include_all_commits=true" alt="SnowyKami's github stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=snowykami&background=000000&stroke=d0e9ff&ring=a2d8f4&dates=d0e9ff&sideNums=a2d8f4&currStreakNum=a2d8f4&excludeDaysLabel=d0e9ff&sideLabels=d0e9ffdd&currStreakLabel=a2d8f4" />
-<img src="https://github-stats.liteyuki.icu/api/top-langs/?username=snowykami&layout=compact&icon_color=d0e9ff&bg_color=000000&title_color=a2d8f4&text_color=a2d8f4&hide_border=true"/>
+<img src="https://github-stats.liteyuki.icu/top-langs/?username=snowykami&layout=compact&icon_color=d0e9ff&bg_color=000000&title_color=a2d8f4&text_color=a2d8f4&hide_border=true"/>
 </center>
 
 #### Developing is not my professional job, only a hobby.
