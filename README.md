@@ -1,4 +1,14 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+This+is+SnowyKami)](https://git.io/typing-svg)
+<div id="header" align="center">
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+This+is+SnowyKami" height="75px"/></h1>
+  <div id="badges">
+    <a href="https://x.com/snowykami1145" target="_blank">
+      <img src="https://img.shields.io/badge/X-red?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+    </a>
+    <a href="https://space.bilibili.com/233938750" target="_blank">
+      <img src="https://img.shields.io/badge/Bilibili-pink?style=for-the-badge&logo=bilibili&logoColor=black" alt="Bilibili Badge"/>
+    </a>
+  </div>
+</div>
 
 <div align="center">
 <img src="https://github-stats.liteyuki.icu/?username=snowykami&theme=liteyuki_gradient&show_icons=true&include_all_commits=true&locale=cn" alt="SnowyKami's github stats" />
@@ -10,24 +20,3 @@
 <div align="center">
 <img src="https://github-stats.liteyuki.icu/top-langs/?username=snowykami&layout=compact&theme=liteyuki_gradient&hide_border=true&locale=cn"/>
 </div>
-
-#### Developing is not my professional job, only a hobby.
-#### Loves playing Minecraft, is a Minecraft developer.
-#### Leader of Liteyuki Studio and Snowyfirefly Studio
-#### Contact me:
-- QQ: 2751454815
-- bilibili: [SnowyKami](https://space.bilibili.com/233938750)
-- Telegram: [@snowykami1024](https://t.me/snowykami1024)
-- X: [@snowykami1145](https://https://twitter.com/snowykami1145)
-- Email: snowykami@outlook.com
-- LiteyukiMail: x@mail.liteyuki.icu
-
-#### [My Website](https://snowykami.me) | [My Blog](https://blog.snowykami.me)
-
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<a href="https://twitter.com/snowykami1145">
-  <img align="right" alt="SnowyKami | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
