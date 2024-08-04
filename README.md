@@ -2,10 +2,22 @@
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+This+is+SnowyKami" height="75px"/></h1>
   <div id="badges">
     <a href="https://x.com/snowykami1145" target="_blank">
-      <img src="https://img.shields.io/badge/X-red?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+      <img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
     </a>
     <a href="https://space.bilibili.com/233938750" target="_blank">
       <img src="https://img.shields.io/badge/Bilibili-pink?style=for-the-badge&logo=bilibili&logoColor=black" alt="Bilibili Badge"/>
+    </a>
+    <a href="https://music.163.com/#/artist?id=46413018" target="_blank">
+      <img src="https://img.shields.io/badge/NCM-red?style=for-the-badge&logo=neteasecloudmusic&logoColor=black" alt="NCM Badge"/>
+    </a>
+    <a href="https://steamcommunity.com/id/sfkm" target="_blank">
+      <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+    </a>
+    <a href="https://lab.liteyuki.icu/?author=1" target="_blank">
+      <img src="https://img.shields.io/badge/LiteyukiLab-blue?style=for-the-badge&logoColor=white" alt="LL Badge"/>
+    </a>
+<a href="https://gitee.com/snowykami" target="_blank">
+      <img src="https://img.shields.io/badge/Gitee-blue?style=for-the-badge&logo=gitee&logoColor=white" alt="LL Badge"/>
     </a>
   </div>
 </div>
@@ -13,9 +25,11 @@
 - 📚 | A normal college student in PRC
 - 🌐 | Chinese and English
 - 🛠️ | Back-end, Front-end, Microservices, Network Engineering, SRE, Game Develop, affman, IoT
-- 🎮 | Minecraft, GTAV, RDR2, Cyberpunk 2077, Cities: Skylines I & II
+- 🎮 | Minecraft, GTAV, RDR2, Cyberpunk 2077, Cities: Skylines I & II ...
 - 🚄 | Love trains, city transit railway, and high-speed rail
+- 🎥 | Uploader on Bilibili, Douyin and YouTube
 - 🎵 | Pop, Classical, J-Pop; Musical composition
+- ✈️ | Traveling, Photography, and Videography
 
 <div id="header" align="center">
   <h1>My Stats 🔥</h1>
