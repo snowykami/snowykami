@@ -22,8 +22,8 @@
 </div>
 
 <div style="display: flex; align-items: stretch; justify-content: center;">
-  <img src="https://github-stats.liteyuki.icu/?username=snowykami&theme=liteyuki_gradient&show_icons=true&include_all_commits=true&locale=cn" alt="SnowyKami's github stats" height="200px" />
-  <img src="https://github-stats.liteyuki.icu/top-langs/?username=snowykami&layout=compact&theme=liteyuki_gradient&hide_border=true&locale=cn" alt="Top Langs" height="200px" />
+  <img src="https://github-stats.liteyuki.icu/?username=snowykami&theme=liteyuki_gradient&show_icons=true&include_all_commits=true&locale=cn" alt="SnowyKami's github stats" height="160px" />
+  <img src="https://github-stats.liteyuki.icu/top-langs/?username=snowykami&layout=compact&theme=liteyuki_gradient&hide_border=true&locale=cn" alt="Top Langs" height="160px" />
 </div>
 
 [//]: # ()
@@ -92,17 +92,10 @@
 <div id="header" align="center">
     <h1>Organizations 🏢</h1>
 </div>
-<div class="org">
-    <div class="org-item" style="display: flex; justify-content: center">
-        <img src="https://avatars.githubusercontent.com/u/157652070?s=200&v=4" alt="trim-icon" height="60px" width="60px">
-        <div class="org-text">
-            <h3>LiteyukiStudio</h3>
-        </div>
-    </div>
-<div class="org-item" style="display: flex; justify-content: center">
-        <img src="https://avatars.githubusercontent.com/u/122889621?s=200&v=4" alt="trim-icon" height="60px" width="60px">
-        <div class="org-text">
-            <h3>Minecraft Multi-Media Organization</h3>
-        </div>
-    </div>
+<div class="org" align="center">
+        <img src="https://avatars.githubusercontent.com/u/157652070?s=200&v=4" alt="trim-icon"  width="60px">
+        <img src="https://avatars.githubusercontent.com/u/122889621?s=200&v=4" alt="trim-icon" width="60px">
+        <img src="https://cdn.liteyuki.icu/static/sfs/logo_without_text.png" alt="trim-icon" width="60px">
+        <img src="https://gitlab.redrock.team/uploads/-/system/appearance/header_logo/1/Redrock.png" alt="trim-icon" width="60px">
+        <img src="https://cdn.liteyuki.icu/static/lmtr/logo_without_text.png" alt="trim-icon" width="60px">
 </div>
