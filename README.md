@@ -58,6 +58,7 @@
 <p align='center'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg' alt='visualstudio' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg' alt='jetbrains' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg' alt='androidstudio' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg' alt='pycharm' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg' alt='intellij' width='40px' height='40px' />
@@ -66,26 +67,77 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg' alt='clion' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg' alt='datagrip' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg' alt='photoshop' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg' alt='aftereffects' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg' alt='illustrator-plain' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg' alt='premierepro' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-original.svg' alt='dreamweaver' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg' alt='blender' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg' alt='chrome' width='40px' height='40px' />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg' alt='firefox' width='40px' height='40px' />
 </p>
 
 
 <p align='center'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg' alt='anaconda' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg' alt='azure' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg' alt='bash' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg' alt='cloudflare' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflareworkers/cloudflareworkers-original.svg' alt='cloudflareworkers' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' alt='docker' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg' alt='gcc' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' alt='git' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt='github' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg' alt='githubactions' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubcodespaces/githubcodespaces-original.svg' alt='githubcodespaces' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg' alt='gitlab' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg' alt='googlecloud' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k3s/k3s-original.svg' alt='k3s' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg' alt='kubernetes' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg' alt='mariadb' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg' alt='matlab' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' alt='mongodb' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' alt='mysql' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nano/nano-original.svg' alt='nano' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg' alt='neovim' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg' alt='nginx' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' alt='npm-original-wordmark' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg' alt='playwright' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg' alt='pnpm' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/poetry/poetry-original.svg' alt='poetry' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' alt='postgresql' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg' alt='postman' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg' alt='powershell' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg' alt='puppeteer' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pypi/pypi-original.svg' alt='pypi' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg' alt='sonarqube' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg' alt='sqlite' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg' alt='ssh' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg' alt='vercel' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg' alt='vim' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg' alt='vite' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg' alt='vitejs' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg' alt='vuejs' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg' alt='wordpress' width='40px' height='40px' />
 </p>
 
 
 <p align='center'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg' alt='axios-plain' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg' alt='bootstrap' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg' alt='devicon' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg' alt='django-plain' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg' alt='fastapi' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg' alt='flask' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg' alt='grpc' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg' alt='latex' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg' alt='matplotlib' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg' alt='numpy' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg' alt='openal' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg' alt='opencv' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg' alt='opengl' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg' alt='pandas' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg' alt='pytorch' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg' alt='selenium' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg' alt='sqlalchemy' width='40px' height='40px' />
 </p>
 
 
@@ -96,6 +148,7 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg' alt='go' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt='html5' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt='java' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='javascript' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg' alt='markdown' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' alt='nodejs' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt='python' width='40px' height='40px' />
@@ -105,8 +158,14 @@
 
 <p align='center'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' alt='android' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg' alt='archlinux' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg' alt='arduino' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg' alt='centos' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg' alt='debian' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg' alt='fedora' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' alt='linux' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg' alt='opensuse' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg' alt='ubuntu' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg' alt='windows11' width='40px' height='40px' />
 </p>
 
