@@ -99,3 +99,21 @@
         <img src="https://gitlab.redrock.team/uploads/-/system/appearance/header_logo/1/Redrock.png" alt="trim-icon" width="60px">
         <img src="https://cdn.liteyuki.icu/static/lmtr/logo_without_text.png" alt="trim-icon" width="60px">
 </div>
+
+<div id="header" align="center">
+    <h1>Contact 📨</h1>
+</div>
+
+Email:
+- a@sfkm.me
+- x@liteyuki.icu
+- snowykami@outlook.com
+
+QQ:
+- 2751454815
+
+Telegram:
+- @snowykami1024
+
+X:
+- @snowykami1145
