@@ -183,7 +183,7 @@
 </div>
 
 <div id="header" align="center">
-    <h1>Contact 📨 联络</h1>
+    <h1>Contacts 📨 联络</h1>
 </div>
 
 Email 电邮:
