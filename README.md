@@ -23,23 +23,25 @@
 </div>
 
 - 📚 | A normal college student in PRC
-- 📚 | 一个普通的大学生
 - 🎓 | Major in IoT Engineering and Computer Science
-- 🎓 | 物联网工程及计算机科学专业
 - 🌐 | Chinese and English
-- 🌐 | 支持使用中文和英文
 - 🛠️ | Back-end, Front-end, Microservices, Network Engineering, SRE, Game Develop, affman, IoT
-- 🛠️ | 后端、前端、微服务、网络工程、SRE、游戏开发、云服务代理商、物联网
 - 🎮 | Minecraft, GTAV, RDR2, Cyberpunk 2077, Cities: Skylines I & II ...
 - 🚄 | Love trains, city transit railway, and high-speed rail
-- 🚄 | 车迷，喜欢各种轨道交通
 - 🎥 | Uploader on Bilibili, Douyin and YouTube
-- 🎥 | Up主
 - 🎵 | Pop, Classical, J-Pop; Musical composition
-- 🎵 | 音乐爱好者及创作者
 - ✈️ | Traveling, Photography, and Videography
-- ✈️ | 旅行、摄影及摄像
 
+
+- 📚 | 一个普通的大学生
+- 🎓 | 物联网工程及计算机科学专业
+- 🌐 | 支持使用中文和英文
+- 🛠️ | 后端、前端、微服务、网络工程、SRE、游戏开发、云服务代理商、物联网
+- 🚄 | 车迷，喜欢各种轨道交通
+- 🎥 | Up主
+- 🎵 | 音乐爱好者及创作者
+- ✈️ | 旅行、摄影及摄像
+  
 <div id="header" align="center">
   <h1>My Stats 🔥 统计信息</h1>
 </div>
