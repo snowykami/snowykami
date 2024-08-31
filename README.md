@@ -61,6 +61,7 @@
   <h1>Tools and Skills 🛠️ 工具及能力</h1>
 </div>
 
+
 <p align='center'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg' alt='visualstudio' width='40px' height='40px' />
@@ -84,7 +85,6 @@
 
 <p align='center'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg' alt='anaconda' width='40px' height='40px' />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg' alt='azure' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg' alt='bash' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg' alt='cloudflare' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflareworkers/cloudflareworkers-original.svg' alt='cloudflareworkers' width='40px' height='40px' />
@@ -95,7 +95,7 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg' alt='githubactions' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubcodespaces/githubcodespaces-original.svg' alt='githubcodespaces' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg' alt='gitlab' width='40px' height='40px' />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg' alt='googlecloud' width='40px' height='40px' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jaegertracing/jaegertracing-original.svg' alt='jaegertracing' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k3s/k3s-original.svg' alt='k3s' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg' alt='kubernetes' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg' alt='mariadb' width='40px' height='40px' />
@@ -114,7 +114,6 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg' alt='powershell' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg' alt='puppeteer' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pypi/pypi-original.svg' alt='pypi' width='40px' height='40px' />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg' alt='sonarqube' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg' alt='sqlite' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg' alt='ssh' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg' alt='vercel' width='40px' height='40px' />
@@ -149,7 +148,6 @@
 
 <p align='center'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' alt='c' width='40px' height='40px' />
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' alt='csharp' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt='css3' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg' alt='go' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt='html5' width='40px' height='40px' />
@@ -174,6 +172,9 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg' alt='ubuntu' width='40px' height='40px' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg' alt='windows11' width='40px' height='40px' />
 </p>
+
+
+
 
 [//]: # ()
 
