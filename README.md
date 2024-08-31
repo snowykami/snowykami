@@ -49,6 +49,9 @@
   <img src="https://github-stats.liteyuki.icu/top-langs/?username=snowykami&layout=compact&theme=liteyuki_gradient&hide_border=true&locale=cn" alt="Top Langs" height="160px" />
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [//]: # ()
 
 <div id="header" align="center">
