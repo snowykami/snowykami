@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+This+is+SnowyKami" height="75px"/></h1>
-  <div id="badges">
+<a href="https://sfkm.me/about"><h2>关于我</h2></a>
+<a href="https://sfkm.me/en/about"><h2>About me</h2></a>  
+<div id="badges">
     <a href="https://sfkm.me/" target="_blank">
       <img src="https://img.shields.io/badge/sfkm.me-blue?style=for-the-badge&logoColor=white" alt="LL Badge"/>
     </a>
@@ -22,31 +24,9 @@
     <a href="https://gitee.com/snowykami" target="_blank">
       <img src="https://img.shields.io/badge/Gitee-blue?style=for-the-badge&logo=gitee&logoColor=white" alt="LL Badge"/>
     </a>
-
+    
   </div>
 </div>
-
-- 📚 | A normal college student in PRC
-- 🎓 | Major in IoT Engineering and Computer Science
-- 🏢 | Working at [Liteyuki Studio](https://liteyuki.icu) and [RedrockTeam back-end](https://redrock.team)
-- 🌐 | Chinese and English
-- 🛠️ | Back-end, Front-end, Microservices, Network Engineering, SRE, Game Develop, affman, IoT
-- 🎮 | Minecraft, GTAV, RDR2, Cyberpunk 2077, Cities: Skylines I & II ...
-- 🚄 | Love trains, city transit railway, and high-speed rail
-- 🎥 | Uploader on Bilibili, Douyin and YouTube
-- 🎵 | Pop, Classical, J-Pop; Musical composition
-- ✈️ | Traveling, Photography, and Videography
-
-
-- 📚 | 一个普通的大学生
-- 🎓 | 物联网工程及计算机科学专业
-- 🏢 | 在 [轻雪工作室](https://liteyuki.icu) 和 [红岩网校 后端研发部](https://redrock.team) 工作
-- 🌐 | 支持使用中文和英文
-- 🛠️ | 后端、前端、微服务、网络工程、SRE、游戏开发、云服务代理商、物联网
-- 🚄 | 车迷，喜欢各种轨道交通
-- 🎥 | Up主
-- 🎵 | 音乐爱好者及创作者
-- ✈️ | 旅行、摄影及摄像
 
 <div id="header" align="center">
   <h1>My Stats 🔥 统计信息</h1>
