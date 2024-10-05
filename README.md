@@ -39,7 +39,7 @@
 🕗 Timezone: Asia/Chongqing
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
@@ -121,7 +121,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2024 14:36:52 UTC
+ Last Updated on 05/10/2024 14:38:57 UTC
 <!--END_SECTION:waka-->
 
 [//]: # ()
