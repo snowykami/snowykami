@@ -18,6 +18,8 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_USERNAME: "liteyuki"
+          COMMIT_EMAIL: "bot@liteyuki.icu"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_UPDATED_DATE: "True"
           SHOW_PROFILE_VIEWS: "False"
