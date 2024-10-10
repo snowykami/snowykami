@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+This+is+SnowyKami" height="75px"/></h1>
-<a href="https://sfkm.me/about" target="_blank"><p>关于我</p></a>
-<a href="https://sfkm.me/en/about" target="_blank"><p>About me</p></a>  
+<a href="https://sfkm.me/about" target="_blank">关于我 </a>|
+<a href="https://sfkm.me/en/about" target="_blank"> About me</a>  
 <div id="badges">
     <a href="https://sfkm.me/" target="_blank">
       <img src="https://img.shields.io/badge/sfkm.me-blue?style=for-the-badge&logoColor=white" alt="LL Badge"/>
