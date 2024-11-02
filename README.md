@@ -39,13 +39,15 @@
 🕗 Timezone: Asia/Chongqing
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 259.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 2,296 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -117,7 +119,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 08:45:49 UTC
+ Last Updated on 02/11/2024 08:49:01 UTC
 <!--END_SECTION:waka-->
 
 [//]: # ()
