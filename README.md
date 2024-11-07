@@ -39,7 +39,7 @@
 🕗 Timezone: Asia/Chongqing
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
@@ -119,7 +119,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2024 05:38:17 UTC
+ Last Updated on 07/11/2024 05:41:38 UTC
 <!--END_SECTION:waka-->
 
 [//]: # ()
