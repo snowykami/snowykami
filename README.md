@@ -158,15 +158,13 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 <div id="header">
     <h1>Contacts 📨 联络</h1>
     <h3>Website 个人网站</h3>
-    [sfkm.me](https://sfkm.me)<br>
+    <a href="https://sfkm.me" target="_blank">sfkm.me</a><br>
     <h3>E-mail 电邮</h3>
-    a@sfkm.me<br>
-    x@liteyuki.icu<br> 
-    snowykami@outlook.com<br>
-    <h3>Social Media 社交媒体</h3>
-    QQ: 2751454815<br>
-    Telegram: @snowykami1024<br>
-    X: @snowykami1145<br>
+    <a href="mailto:snowykami@outlook.com" target="_blank">snowykami@outlook.com</a>
+    <br>
+    <a href="mailto:s@liteyuki.icu" target="_blank">s@liteyuki.icu</a>
+    <br>
+    <a href="mailto:a@sfkm.me" target="_blank">a@sfkm.me</a>
 </div>
 
 
