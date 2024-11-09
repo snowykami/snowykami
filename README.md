@@ -78,7 +78,7 @@ Sunday                   602 commits         █████░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Hong_Kong
+🕑︎ Time Zone: Asia/Chongqing
 
 💬 Programming Languages: 
 CSS                      17 hrs 6 mins       ██████████████░░░░░░░░░░░   55.25 % 
