@@ -36,7 +36,6 @@
   <img src="https://gs.sfkm.me/api?username=snowykami&theme=liteyuki_gradient&show_icons=true&include_all_commits=true" alt="SnowyKami's github stats" height="160px" />
   <img src="https://gs.sfkm.me/api/top-langs/?username=snowykami&layout=compact&theme=liteyuki_gradient&hide_border=true" alt="Top Langs" height="160px" />
 </div>
-🕗 Timezone: Asia/Chongqing
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2034%20mins-blue)
