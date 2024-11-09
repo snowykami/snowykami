@@ -25,7 +25,7 @@ jobs:
         run: |
           # 修改Readme中的Asia/Hong_Kong为Asia/Chongqing
           sed -i 's/Asia\/Hong_Kong/Asia\/Chongqing/g' README.md
-          
+          ls -al
           # 配置令牌
           git config --global user.email "snowykami@outlook.com"
           git config --global user.name "snowykami"
