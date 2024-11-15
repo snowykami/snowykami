@@ -38,7 +38,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-627%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-627%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
@@ -46,7 +46,7 @@
 
 > 📦 264.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,604 Contributions in the Year 2024
+> 🏆 2,602 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,7 +120,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2024 10:40:39 UTC
+ Last Updated on 15/11/2024 10:44:37 UTC
 <!--END_SECTION:waka-->
 
 [//]: # ()
