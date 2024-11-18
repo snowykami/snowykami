@@ -31,10 +31,10 @@
 <div id="header" align="center">
   <h1>My Stats 🔥 统计信息</h1>
 </div>
-
 <div style="display: flex; align-items: stretch; justify-content: center;">
   <img src="https://gs.sfkm.me/api?username=snowykami&theme=liteyuki_gradient&show_icons=true&include_all_commits=true" alt="SnowyKami's github stats" height="160px" />
-  <img src="https://gs.sfkm.me/api/top-langs/?username=snowykami&layout=compact&theme=liteyuki_gradient&hide_border=true" alt="Top Langs" height="160px" />
+  <img width="600px" src="https://wakatime.com/share/@018f0609-0e10-4d88-b866-3f5236eec84e/aa011113-ddb1-4347-a798-0223ce26648a.svg">
+  
 </div>
 
 <!--START_SECTION:waka-->

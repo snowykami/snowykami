@@ -15,25 +15,9 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - name: Pre checks
-        run: |
-          ls -al
 
       - name: Checkout Repository
         uses: anmol098/waka-readme-stats@master
         with:
             GH_TOKEN: ${{ secrets.GH_TOKEN_2 }}
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-    
-      - name: Replace Timezone
-        run: |
-          # 修改Readme中的Asia/Hong_Kong为Asia/Chongqing
-          sed -i 's/Asia\/Hong_Kong/Asia\/Chongqing/g' README.md
-          
-          # 配置令牌
-          git config --global user.email "snowykami@outlook.com"
-          git config --global user.name "snowykami"
-          git config --global url."https://{{ secrets.GH_TOKEN_2 }}@github.com".insteadOf "https://github.com"
-          git add README.md
-          git commit -am "Update timezone"
-          git push
