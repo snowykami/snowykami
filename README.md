@@ -38,7 +38,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-635%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-635%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
@@ -118,7 +118,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2024 15:41:48 UTC
+ Last Updated on 20/11/2024 15:45:13 UTC
 <!--END_SECTION:waka-->
 
 [//]: # ()
