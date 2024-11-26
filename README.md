@@ -149,23 +149,6 @@ mcfunction               1 repo              ░░░░░░░░░░░�
  Last Updated on 26/11/2024 15:25:01 UTC
 <!--END_SECTION:waka-->
 
-[//]: #
-
-<div id="header">
-  <h2>Tools 🛠️ 工具</h2>
-</div>
-
-<!--START_SECTION:tools-->
-<p></p>
-
-
-<p></p>
-
-<!--END_SECTION:tools-->
-
-
-[//]: #
-
 <div id="header">
     <h2>Organizations 🏢 组织及团队</h2>
 </div>
