@@ -1,7 +1,11 @@
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+
+
 <div id="header" align="center">
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+This+is+SnowyKami" height="75px"/></h1>
-<a href="https://sfkm.me/about" target="_blank">关于我 </a>|
-<a href="https://sfkm.me/en/about" target="_blank"> About</a>  
+
 <div id="badges">
     <a href="https://sfkm.me/" target="_blank">
       <img src="https://img.shields.io/badge/sfkm.me-blue?style=for-the-badge&logoColor=white" alt="LL Badge"/>
@@ -24,18 +28,23 @@
     <a href="https://gitee.com/snowykami" target="_blank">
       <img src="https://img.shields.io/badge/Gitee-blue?style=for-the-badge&logo=gitee&logoColor=white" alt="LL Badge"/>
     </a>
-    
+    <br>
+    <div>
+    点击
+    <a href="https://sfkm.me/about" target="_blank" style="font-size:30px;">关于我 |</a>
+    Tap
+    <a href="https://sfkm.me/en/about" target="_blank" style="font-size:30px;">About</a></div>
   </div>
 </div>
 
-<div id="header" align="center">
-  <h1>My Stats 🔥 统计信息</h1>
-</div>
-<div style="display: flex; align-items: stretch; justify-content: center;">
-  <img src="https://gs.sfkm.me/api?username=snowykami&theme=liteyuki_gradient&show_icons=true&include_all_commits=true" alt="SnowyKami's github stats" height="160px" />
-  <img width="600px" src="https://wakatime.com/share/@018f0609-0e10-4d88-b866-3f5236eec84e/aa011113-ddb1-4347-a798-0223ce26648a.svg">
-  
-</div>
+<i class="devicon-devicon-plain"></i>
+ 
+## Operating System & Tools 🛠️ 操作系统及工具
+<img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11"/>
+
+## My Stats & Wakatime 🔥 统计信息及Wakatime
+<img src="https://gs.sfkm.me/api?username=snowykami&theme=liteyuki_gradient&show_icons=true&include_all_commits=true" alt="SnowyKami's github stats" height="160px" />
+<img width="600px" src="https://wakatime.com/share/@018f0609-0e10-4d88-b866-3f5236eec84e/aa011113-ddb1-4347-a798-0223ce26648a.svg">
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-643%20hrs%2039%20mins-blue)
@@ -127,7 +136,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 [//]: # ()
 
 <div id="header">
-  <h1>Tools 🛠️ 工具</h1>
+  <h2>Tools 🛠️ 工具</h2>
 </div>
 
 <!--START_SECTION:tools-->
@@ -147,7 +156,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 [//]: # ()
 
 <div id="header">
-    <h1>Organizations 🏢 组织及团队</h1>
+    <h2>Organizations 🏢 组织及团队</h2>
 </div>
 <div class="org">
         <img src="https://avatars.githubusercontent.com/u/157652070?s=200&v=4" alt="trim-icon"  width="60px">
@@ -158,7 +167,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 </div>
 
 <div id="header">
-    <h1>Contacts 📨 联络</h1>
+    <h2>Contacts 📨 联络</h2>
     <h3>Website 个人网站</h3>
     <a href="https://sfkm.me" target="_blank">sfkm.me</a><br>
     <h3>E-mail 电邮</h3>
