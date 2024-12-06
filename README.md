@@ -163,7 +163,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
     <h3>E-mail 电邮</h3>
     <a href="mailto:snowykami@outlook.com" target="_blank">snowykami@outlook.com</a>
     <br>
-    <a href="mailto:s@liteyuki.icu" target="_blank">s@liteyuki.icu</a>
+    <a href="mailto:s@liteyuki.icu" target="_blank">s@liteyuki.icu</a><a href="mailto:x@liteyuki.icu" target="_blank">x@liteyuki.icu</a>
     <br>
     <a href="mailto:a@sfkm.me" target="_blank">a@sfkm.me</a>
     <br>
