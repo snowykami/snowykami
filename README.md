@@ -167,7 +167,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
     <br>
     <a href="mailto:a@sfkm.me" target="_blank">a@sfkm.me</a>
     <br>
-    <a href="mailto:a@sfkm.me" target="_blank">sfkm@redrock.team</a>|<a href="mailto:sfkm@redrock.cqupt.edu.cn" target="_blank"></a>
+    <a href="mailto:sfkm@redrock.team" target="_blank">sfkm@redrock.team</a>|<a href="mailto:sfkm@redrock.cqupt.edu.cn" target="_blank">sfkm@redrock.cqupt.edu.cn</a>
   
 </div>
 
