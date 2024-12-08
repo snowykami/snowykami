@@ -163,13 +163,13 @@ mcfunction               1 repo              ░░░░░░░░░░░�
     <h3>Website 个人网站</h3>
     <a href="https://sfkm.me" target="_blank">sfkm.me</a><br>
     <h3>E-mail 电邮</h3>
-    <a href="mailto:snowykami@outlook.com" target="_blank">snowykami@outlook.com</a>
+    日常使用: <a href="mailto:snowykami@outlook.com" target="_blank">snowykami@outlook.com</a>
     <br>
-    <a href="mailto:s@liteyuki.icu" target="_blank">s@liteyuki.icu</a> | <a href="mailto:x@liteyuki.icu" target="_blank">x@liteyuki.icu</a>
+    工作邮箱(LiteyukiStudio): <a href="mailto:s@liteyuki.icu" target="_blank">s@liteyuki.icu</a>
     <br>
-    <a href="mailto:a@sfkm.me" target="_blank">a@sfkm.me</a>
+    合作联络: <a href="mailto:a@sfkm.me" target="_blank">a@sfkm.me</a>
     <br>
-    <a href="mailto:sfkm@redrock.team" target="_blank">sfkm@redrock.team</a> | <a href="mailto:sfkm@redrock.cqupt.edu.cn" target="_blank">sfkm@redrock.cqupt.edu.cn</a>
+    工作邮箱(RedrockTeam): <a href="mailto:sfkm@redrock.team" target="_blank">sfkm@redrock.team</a> | <a href="mailto:sfkm@redrock.cqupt.edu.cn" target="_blank">sfkm@redrock.cqupt.edu.cn</a>
   
 </div>
 

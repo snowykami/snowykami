@@ -134,6 +134,7 @@ for name, data in icon_sets.items():
 with open("README.md", "r", encoding="utf-8") as f:
     # 找到<!--START_SECTION:tools-->和<!--END_SECTION:tools-->的行数
     lines = f.readlines()
+    
     start = -1
     end = -1
     for i in range(len(lines)):
