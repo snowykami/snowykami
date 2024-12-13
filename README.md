@@ -69,7 +69,7 @@ Tap
 
 **🐱 My GitHub Data** 
 
-> 📦 274.2 kB Used in GitHub's Storage 
+> 📦 274.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -142,7 +142,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2024 17:22:23 UTC
+ Last Updated on 13/12/2024 17:26:10 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
