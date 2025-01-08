@@ -1,5 +1,6 @@
 <h1><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+This+is+SnowyKami" height="75px"/></h1>
 
+
 <div style="display:flex;">
 <a href="https://sfkm.me/" target="_blank">
   <img src="https://img.shields.io/badge/sfkm.me-blue?style=for-the-badge&logoColor=white" alt="LL Badge"/>
