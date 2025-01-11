@@ -64,7 +64,7 @@ Tap
 <img width="600px" src="https://wakatime.com/share/@018f0609-0e10-4d88-b866-3f5236eec84e/aa011113-ddb1-4347-a798-0223ce26648a.svg" width='160px'>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
@@ -72,7 +72,7 @@ Tap
 
 > 📦 278.1 kB Used in GitHub's Storage 
  > 
-> 🏆 233 Contributions in the Year 2025
+> 🏆 231 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -138,7 +138,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 11/01/2025 14:27:51 UTC
+ Last Updated on 11/01/2025 14:32:53 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
