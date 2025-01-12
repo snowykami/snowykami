@@ -64,13 +64,15 @@ Tap
 <img width="600px" src="https://wakatime.com/share/@018f0609-0e10-4d88-b866-3f5236eec84e/aa011113-ddb1-4347-a798-0223ce26648a.svg" width='160px'>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 278.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 243 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,7 +85,7 @@ Tap
 ```text
 🌞 Morning                1131 commits        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
 🌆 Daytime                1210 commits        ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-🌃 Evening                1367 commits        ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+🌃 Evening                1368 commits        ███████░░░░░░░░░░░░░░░░░░   27.15 % 
 🌙 Night                  1329 commits        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -95,7 +97,7 @@ Wednesday                674 commits         ███░░░░░░░░�
 Thursday                 691 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
 Friday                   690 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 Saturday                 761 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Sunday                   888 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Sunday                   889 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
 ```
 
 
@@ -142,7 +144,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2025 14:18:08 UTC
+ Last Updated on 12/01/2025 14:22:41 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
