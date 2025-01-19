@@ -17,7 +17,7 @@
 <a href="https://steamcommunity.com/id/sfkm" target="_blank">
   <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
 </a>
-<a href="https://lab.liteyuki.icu/?author=1" target="_blank">
+<a href="https://lab.liteyuki.icu/@snowykami" target="_blank">
   <img src="https://img.shields.io/badge/LiteyukiLab-blue?style=for-the-badge&logoColor=white" alt="LL Badge"/>
 </a>
 <a href="https://gitee.com/snowykami" target="_blank">
