@@ -64,15 +64,15 @@ Tap
 <img width="600px" src="https://wakatime.com/share/@018f0609-0e10-4d88-b866-3f5236eec84e/aa011113-ddb1-4347-a798-0223ce26648a.svg" width='160px'>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-731%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-731%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 280.1 kB Used in GitHub's Storage 
+> 📦 280.2 kB Used in GitHub's Storage 
  > 
-> 🏆 572 Contributions in the Year 2025
+> 🏆 571 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -145,7 +145,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2025 16:31:25 UTC
+ Last Updated on 03/02/2025 16:37:12 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
