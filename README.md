@@ -66,13 +66,11 @@ Tap
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 282.4 kB Used in GitHub's Storage 
- > 
-> 🏆 862 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -145,7 +143,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2025 07:10:28 UTC
+ Last Updated on 24/02/2025 07:15:43 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
