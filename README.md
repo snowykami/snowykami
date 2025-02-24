@@ -60,7 +60,7 @@ Tap
 </div>
 
 ## 🔥 My Stats & Wakatime  统计信息及编码时间
-<img src="https://gs.sfkm.me/api?username=snowykami&theme=liteyuki_gradient&show_icons=true&include_all_commits=true" alt="SnowyKami's github stats" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=snowykami&theme=liteyuki_gradient&show_icons=true&include_all_commits=true" alt="SnowyKami's github stats" height="160px" />
 <img width="600px" src="https://wakatime.com/share/@018f0609-0e10-4d88-b866-3f5236eec84e/aa011113-ddb1-4347-a798-0223ce26648a.svg" width='160px'>
 
 <!--START_SECTION:waka-->
