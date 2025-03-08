@@ -72,6 +72,8 @@ Tap
 
 > 📦 283.6 kB Used in GitHub's Storage 
  > 
+> 🏆 925 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 79 Public Repositories 
@@ -143,7 +145,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2025 04:46:47 UTC
+ Last Updated on 08/03/2025 04:52:30 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
