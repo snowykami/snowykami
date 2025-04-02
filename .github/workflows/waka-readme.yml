@@ -21,3 +21,4 @@ jobs:
         with:
             GH_TOKEN: ${{ secrets.GH_TOKEN_2 }}
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+            SHOW_PROJECTS: "False"
