@@ -64,7 +64,7 @@ Tap
 <img width="600px" src="https://wakatime.com/share/@018f0609-0e10-4d88-b866-3f5236eec84e/aa011113-ddb1-4347-a798-0223ce26648a.svg" width='160px'>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-877%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-877%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -137,7 +137,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2025 08:49:41 UTC
+ Last Updated on 27/04/2025 09:16:43 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
