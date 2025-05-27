@@ -70,7 +70,7 @@ Tap
 
 **🐱 My GitHub Data** 
 
-> 📦 316.2 kB Used in GitHub's Storage 
+> 📦 317.4 kB Used in GitHub's Storage 
  > 
 > 🏆 1,717 Contributions in the Year 2025
  > 
@@ -141,7 +141,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2025 06:23:54 UTC
+ Last Updated on 27/05/2025 06:29:26 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
