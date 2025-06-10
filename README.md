@@ -64,13 +64,13 @@ Tap
 <img width="600px" src="https://wakatime.com/share/@018f0609-0e10-4d88-b866-3f5236eec84e/aa011113-ddb1-4347-a798-0223ce26648a.svg" width='160px'>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C054%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C054%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 606.0 kB Used in GitHub's Storage 
+> 📦 616.8 kB Used in GitHub's Storage 
  > 
 > 🏆 2,190 Contributions in the Year 2025
  > 
@@ -83,17 +83,17 @@ Tap
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1727 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+🌞 Morning                1727 commits        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
 🌆 Daytime                2021 commits        ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
 🌃 Evening                2600 commits        ███████░░░░░░░░░░░░░░░░░░   28.90 % 
-🌙 Night                  2649 commits        ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+🌙 Night                  2650 commits        ███████░░░░░░░░░░░░░░░░░░   29.45 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   1220 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
 Tuesday                  1424 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Wednesday                1077 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Wednesday                1078 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 Thursday                 1033 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
 Friday                   1421 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 Saturday                 1334 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
@@ -140,7 +140,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2025 19:00:35 UTC
+ Last Updated on 10/06/2025 19:06:13 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
