@@ -64,13 +64,15 @@ Tap
 <img width="600px" src="https://wakatime.com/share/@018f0609-0e10-4d88-b866-3f5236eec84e/aa011113-ddb1-4347-a798-0223ce26648a.svg" width='160px'>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C060%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C060%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 620.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 2,247 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,7 +86,7 @@ Tap
 🌞 Morning                1729 commits        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
 🌆 Daytime                2029 commits        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
 🌃 Evening                2601 commits        ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-🌙 Night                  2703 commits        ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+🌙 Night                  2704 commits        ███████░░░░░░░░░░░░░░░░░░   29.84 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
@@ -93,7 +95,7 @@ Monday                   1220 commits        ███░░░░░░░░�
 Tuesday                  1423 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
 Wednesday                1122 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
 Thursday                 1036 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Friday                   1431 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Friday                   1432 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
 Saturday                 1334 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 Sunday                   1496 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 ```
@@ -138,7 +140,7 @@ mcfunction               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2025 20:31:12 UTC
+ Last Updated on 12/06/2025 20:36:31 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
