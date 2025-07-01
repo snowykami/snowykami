@@ -72,6 +72,8 @@ Tap
 
 > 📦 674.1 kB Used in GitHub's Storage 
  > 
+> 🏆 2,469 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 85 Public Repositories 
@@ -140,7 +142,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2025 20:20:19 UTC
+ Last Updated on 01/07/2025 20:25:56 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
