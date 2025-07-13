@@ -70,7 +70,7 @@ Tap
 
 **🐱 My GitHub Data** 
 
-> 📦 700.0 kB Used in GitHub's Storage 
+> 📦 699.9 kB Used in GitHub's Storage 
  > 
 > 🏆 2,521 Contributions in the Year 2025
  > 
@@ -139,7 +139,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2025 16:20:36 UTC
+ Last Updated on 13/07/2025 16:26:50 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
