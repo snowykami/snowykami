@@ -70,7 +70,7 @@ Tap
 
 **🐱 My GitHub Data** 
 
-> 📦 708.5 kB Used in GitHub's Storage 
+> 📦 708.4 kB Used in GitHub's Storage 
  > 
 > 🏆 2,551 Contributions in the Year 2025
  > 
@@ -140,7 +140,7 @@ JCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2025 15:18:04 UTC
+ Last Updated on 19/07/2025 15:23:35 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
