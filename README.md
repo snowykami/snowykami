@@ -72,8 +72,6 @@ Tap
 
 > 📦 745.9 kB Used in GitHub's Storage 
  > 
-> 🏆 2,726 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 91 Public Repositories 
@@ -140,7 +138,7 @@ JCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2025 07:46:08 UTC
+ Last Updated on 07/08/2025 07:53:01 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
