@@ -25,10 +25,7 @@
 </a>
 </div>
 
-点击
-<a href="https://sfkm.me/about" target="_blank" style="font-size:30px;">关于我 |</a>
-Tap
-<a href="https://sfkm.me/en/about" target="_blank" style="font-size:30px;">About</a>
+<a href="https://sfkm.me" target="_blank" style="font-size:30px;">关于我 | About</a>
 
 
 ## 🛠️ Operating system & Tools 操作系统及工具
