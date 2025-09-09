@@ -67,7 +67,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 844.4 kB Used in GitHub's Storage 
+> 📦 844.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -134,7 +134,7 @@ JCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2025 23:17:02 UTC
+ Last Updated on 09/09/2025 23:22:39 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
