@@ -73,7 +73,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 96 Public Repositories 
+> 📜 95 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -138,7 +138,7 @@ JCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2025 04:38:17 UTC
+ Last Updated on 16/10/2025 04:46:59 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
