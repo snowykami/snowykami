@@ -25,8 +25,9 @@
 </a>
 </div>
 
-<a href="https://sfkm.me" target="_blank" style="font-size:30px;">关于我 | About</a>
+<a href="https://sfkm.me" target="_blank" style="font-size:30px;">关于我 / About</a>
 
+❤️: <a href="https://github.com/balancetheworld" target="_blank" style="font-size:30px;">balancetheworld</a>
 
 ## 🛠️ Operating system & Tools 操作系统及工具
 <div style="display:flex">
