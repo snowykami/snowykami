@@ -1,34 +1,9 @@
 <h1><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+This+is+SnowyKami" height="75px"/></h1>
 
+## About Me 关于我
 
-<div style="display:flex;">
-<a href="https://sfkm.me/" target="_blank">
-  <img src="https://img.shields.io/badge/sfkm.me-blue?style=for-the-badge&logoColor=white" alt="LL Badge"/>
-</a>
-<a href="https://x.com/snowykami1145" target="_blank">
-  <img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-</a>
-<a href="https://space.bilibili.com/233938750" target="_blank">
-  <img src="https://img.shields.io/badge/Bilibili-pink?style=for-the-badge&logo=bilibili&logoColor=black" alt="Bilibili Badge"/>
-</a>
-<a href="https://music.163.com/#/artist?id=46413018" target="_blank">
-  <img src="https://img.shields.io/badge/NCM-red?style=for-the-badge&logo=neteasecloudmusic&logoColor=black" alt="NCM Badge"/>
-</a>
-<a href="https://steamcommunity.com/id/sfkm" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
-</a>
-<a href="https://lab.liteyuki.icu/@snowykami" target="_blank">
-  <img src="https://img.shields.io/badge/LiteyukiLab-blue?style=for-the-badge&logoColor=white" alt="LL Badge"/>
-</a>
-<a href="https://gitee.com/snowykami" target="_blank">
-  <img src="https://img.shields.io/badge/Gitee-blue?style=for-the-badge&logo=gitee&logoColor=white" alt="LL Badge"/>
-</a>
-</div>
-
-<a href="https://sfkm.me" target="_blank" style="font-size:30px;">关于我 / About</a>
-
-**❤️**: <a href="https://github.com/balancetheworld" target="_blank" style="font-size:30px;">balancetheworld</a>
-
+- [主页](https://www.sfkm.me)
+- [博客](https://blog.sfkm.me)
 
 ## 🔥 My Stats & Wakatime  统计信息及编码时间
 <img width="600px" src="https://wakatime.com/share/@018f0609-0e10-4d88-b866-3f5236eec84e/aa011113-ddb1-4347-a798-0223ce26648a.svg" width='160px'>
@@ -121,6 +96,7 @@ JCL                      1 repo              ░░░░░░░░░░░�
         <img src="https://gitlab.redrock.team/uploads/-/system/appearance/header_logo/1/Redrock.png" alt="trim-icon" width="60px">
         <img src="https://cdn.liteyuki.icu/static/lmtr/logo_without_text.png" alt="trim-icon" width="60px">
 </div>
+- 目前在快猫星云做开源项目的维护（实习）
 
 <div id="header">
     <h2>Contacts 📨 联络</h2>
