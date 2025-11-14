@@ -96,6 +96,8 @@ JCL                      1 repo              ░░░░░░░░░░░�
         <img src="https://gitlab.redrock.team/uploads/-/system/appearance/header_logo/1/Redrock.png" alt="trim-icon" width="60px">
         <img src="https://cdn.liteyuki.icu/static/lmtr/logo_without_text.png" alt="trim-icon" width="60px">
 </div>
+
+- 红岩网校工作站后端研发部成员
 - 目前在快猫星云做开源项目的维护（实习）
 
 <div id="header">
