@@ -6,6 +6,7 @@
 - [博客](https://blog.sfkm.me)
 
 ## 🔥 My Stats & Wakatime  统计信息及编码时间
+<a href="https://gitroll.io/profile/u0GELgDDciiXVCJKo4XiI77tAjFh2" target="_blank"><img width="400px" src="https://gitroll.io/api/badges/profiles/v1/u0GELgDDciiXVCJKo4XiI77tAjFh2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 <img width="600px" src="https://wakatime.com/share/@018f0609-0e10-4d88-b866-3f5236eec84e/aa011113-ddb1-4347-a798-0223ce26648a.svg" width='160px'>
 
 <!--START_SECTION:waka-->
