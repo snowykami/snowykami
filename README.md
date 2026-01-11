@@ -12,11 +12,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C677%20hrs%2021%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 393.7 kB Used in GitHub's Storage 
+> 📦 393.8 kB Used in GitHub's Storage 
  > 
 > 🏆 23 Contributions in the Year 2026
  > 
@@ -79,7 +79,7 @@ JCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 11/01/2026 15:03:22 UTC
+ Last Updated on 11/01/2026 15:14:40 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
