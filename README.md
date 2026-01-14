@@ -16,7 +16,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 394.4 kB Used in GitHub's Storage 
+> 📦 394.5 kB Used in GitHub's Storage 
  > 
 > 🏆 38 Contributions in the Year 2026
  > 
@@ -77,7 +77,7 @@ Mac                      7 hrs 57 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2026 10:27:30 UTC
+ Last Updated on 14/01/2026 10:27:55 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
