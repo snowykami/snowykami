@@ -10,9 +10,9 @@
 <img width="600px" src="https://wakatime.com/share/@018f0609-0e10-4d88-b866-3f5236eec84e/aa011113-ddb1-4347-a798-0223ce26648a.svg" width='160px'>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C689%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C694%20hrs%2024%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -53,17 +53,17 @@ Sunday                   3555 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-TypeScript               7 hrs 50 mins       ████████████████░░░░░░░░░   64.23 % 
-JSON                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Markdown                 1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Java Properties          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript               11 hrs 53 mins      █████████████████░░░░░░░░   68.70 % 
+JSON                     2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 18 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +83,7 @@ JCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2026 16:30:47 UTC
+ Last Updated on 16/01/2026 16:44:04 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
