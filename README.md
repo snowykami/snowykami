@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C694%20hrs%2024%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -66,14 +66,8 @@ VS Code                  17 hrs 3 mins       ███████████�
 Mac                      17 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
-
 ```text
-Python                   24 repos            ████████░░░░░░░░░░░░░░░░░   31.17 % 
-TypeScript               21 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Go                       10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-JCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+
 ```
 
 
@@ -83,7 +77,7 @@ JCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 19/01/2026 11:21:35 UTC
+ Last Updated on 19/01/2026 11:21:59 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
