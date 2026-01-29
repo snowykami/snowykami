@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C710%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -77,7 +77,7 @@ Mac                      8 hrs 31 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2026 10:43:55 UTC
+ Last Updated on 29/01/2026 10:44:22 UTC
 <!--END_SECTION:waka-->
 
 <div id="header">
