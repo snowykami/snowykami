@@ -4,28 +4,28 @@
 
 ## Interests & Hobbies 兴趣爱好
 
-- 喜欢折腾HomeLab和各种自建服务
-- 喜欢玩Minecraft，运营/运维过一些服务器
-- 热爱开源技术，喜欢折腾各种新技术
+- 🏠 喜欢折腾 HomeLab 和各种自建服务
+- ⛏️ 喜欢玩 Minecraft，运营/运维过一些服务器
+- 💡 热爱开源技术，喜欢折腾各种新技术
 
 ## Roles & Positions  角色与职位
 
-- 是红岩网校工作站后端研发部成员
-- CQUPTHub技术顾问/后端部门负责人
-- 仙桃云智工作室负责人
-- 轻雪工作室（线上）成员
+- 🧑‍💻 是红岩网校工作站后端研发部成员
+- 🧠 CQUPTHub 技术顾问 / 后端部门负责人
+- 🏢 仙桃云智工作室负责人
+- 🌙 轻雪工作室（线上）成员
 
 ## Skills & Technologies 技能与技术
 
-- 语言：`Python` `Go` `TypeScript` `JavaScript` `C` `C++` `Rust`
-- 常用技术栈：`React` `Next.js` `React Native` `Node.js` `Django` `FastAPI` `Gin` `Docker` `Kubernetes` `PostgreSQL` `Redis` `GraphQL`
+- 🧩 语言：`Python` `Go` `TypeScript` `JavaScript` `C` `C++` `Rust`
+- 🛠️ 常用技术栈：`React` `Next.js` `React Native` `Node.js` `Django` `FastAPI` `Gin` `Docker` `Kubernetes` `PostgreSQL` `Redis` `GraphQL`
 
 ## Contacts & Links 联系与其他链接
 
-- Email: [snowykami@outlook.com](mailto:snowykami@outlook.com)
-- 主页：[https://www.sfkm.me](https://www.sfkm.me)
-- 博客：[https://blog.sfkm.me](https://blog.sfkm.me)（由neo-blog驱动）
-- 女友：[https://www.smob.cc/](https://www.smob.cc/)
+- 📧 Email: [snowykami@outlook.com](mailto:snowykami@outlook.com)
+- 🏡 主页：[https://www.sfkm.me](https://www.sfkm.me)
+- ✍️ 博客：[https://blog.sfkm.me](https://blog.sfkm.me)（由 neo-blog 驱动）
+- 💞 女友：[https://www.smob.cc/](https://www.smob.cc/)
 
 ## 🔥 My Stats & Wakatime  统计信息及编码时间
 <a href="https://gitroll.io/profile/u0GELgDDciiXVCJKo4XiI77tAjFh2" target="_blank"><img width="400px" src="https://gitroll.io/api/badges/profiles/v1/u0GELgDDciiXVCJKo4XiI77tAjFh2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
