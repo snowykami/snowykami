@@ -17,10 +17,10 @@
 
 ## Jobs & Projects 工作与项目
 
-- 目前正在北美人工智能公司[39-ai](https://39-ai.com/)实习
-- 曾在快猫星云实习，负责开源项目[夜莺监控Nightingale](https://n9e.github.io/zh/)的部分功能开发和维护
-- [neo-blog](https://github.com/snowykami/neo-blog)主要维护者
-- [轻雪机器人](https://bot.liteyuki.org)的主要开发者
+- 目前正在北美人工智能公司 [39-ai](https://39-ai.com/) 实习
+- 曾在快猫星云实习，负责开源项目 [夜莺监控 Nightingale](https://n9e.github.io/zh/) 的部分功能开发和维护
+- [neo-blog](https://github.com/snowykami/neo-blog) 主要维护者
+- [轻雪机器人](https://bot.liteyuki.org) 的主要开发者
 
 ## Contacts & Links 联系与其他链接
 
@@ -31,10 +31,10 @@
 
 ## Roles & Positions  角色与职位
 
-- 🧑‍💻 是[红岩网校工作站](https://redrock.team/)后端研发部成员
+- 🧑‍💻 [红岩网校工作站](https://redrock.team/) 后端研发部成员
 - 🧠 CQUPTHub 技术顾问 / 后端部门负责人
 - 🏢 [仙桃云智工作室](https://github.com/orgs/CloudAI-Studio)负责人
-- 🌙 [轻雪工作室](https://liteyuki.org)负责人
+- 🌙 [轻雪工作室 Liteyuki Studio](https://liteyuki.org)负责人
 
 ## 🔥 My Stats & Wakatime  统计信息及编码时间
 <a href="https://gitroll.io/profile/u0GELgDDciiXVCJKo4XiI77tAjFh2" target="_blank"><img width="400px" src="https://gitroll.io/api/badges/profiles/v1/u0GELgDDciiXVCJKo4XiI77tAjFh2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
