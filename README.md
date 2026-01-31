@@ -1,3 +1,5 @@
+<!-- kyechan99/capsule-render -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:0B1F4B,100:4DA3FF&text=Snowykami&fontColor=FFFFFF&fontSize=60&fontAlignY=35)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Snowykami;%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AF%E8%BF%9C%E9%87%8E%E5%8D%83%E6%9D%9F(Snowykami);Welcome+to+my+GitHub+profile;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub%E9%A1%B5%E9%9D%A2" alt="Typing SVG" /></a>
 
 # About Me / 关于我
@@ -8,13 +10,6 @@
 - ⛏️ 喜欢玩 Minecraft，运营/运维过一些服务器，可以来一起玩
 - 💡 热爱开源技术，喜欢折腾各种新技术，可以一起交流
 - 📚 有精力的话想学习更多的技术，持续积累开发经验
-
-## Roles & Positions  角色与职位
-
-- 🧑‍💻 是[红岩网校工作站](https://redrock.team/)后端研发部成员
-- 🧠 CQUPTHub 技术顾问 / 后端部门负责人
-- 🏢 [仙桃云智工作室](https://github.com/orgs/CloudAI-Studio)负责人
-- 🌙 [轻雪工作室](https://liteyuki.org)负责人
 
 ## Skills & Technologies 技能与技术
 
@@ -28,6 +23,13 @@
 - 🏡 主页：[https://www.sfkm.me](https://www.sfkm.me)（有更多联系方式）
 - ✍️ 博客：[https://blog.sfkm.me](https://blog.sfkm.me)（由 neo-blog 驱动）
 - 💞 女友：[https://www.smob.cc/](https://www.smob.cc/)
+
+## Roles & Positions  角色与职位
+
+- 🧑‍💻 是[红岩网校工作站](https://redrock.team/)后端研发部成员
+- 🧠 CQUPTHub 技术顾问 / 后端部门负责人
+- 🏢 [仙桃云智工作室](https://github.com/orgs/CloudAI-Studio)负责人
+- 🌙 [轻雪工作室](https://liteyuki.org)负责人
 
 ## Jobs & Projects 工作与项目
 
@@ -106,3 +108,5 @@ Mac                      18 hrs 50 mins      ███████████�
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0B1F4B,100:4DA3FF)
