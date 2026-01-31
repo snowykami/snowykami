@@ -5,8 +5,9 @@
 ## Interests & Hobbies 兴趣爱好
 
 - 🏠 喜欢折腾 HomeLab 和各种自建服务
-- ⛏️ 喜欢玩 Minecraft，运营/运维过一些服务器
-- 💡 热爱开源技术，喜欢折腾各种新技术
+- ⛏️ 喜欢玩 Minecraft，运营/运维过一些服务器，可以来一起玩
+- 💡 热爱开源技术，喜欢折腾各种新技术，可以一起交流
+- 📚 有精力的话想学习更多的技术，持续积累开发经验
 
 ## Roles & Positions  角色与职位
 
@@ -19,11 +20,12 @@
 
 - 🧩 语言：`Python` `Go` `TypeScript` `JavaScript` `C` `C++` `Rust`
 - 🛠️ 常用技术栈：`React` `Next.js` `React Native` `Node.js` `Django` `FastAPI` `Gin` `Docker` `Kubernetes` `PostgreSQL` `Redis` `GraphQL`
+- 🎯 方向：`后端` `前端` `移动端` `DevOps` `云原生` `运维` `自动化`
 
 ## Contacts & Links 联系与其他链接
 
 - 📧 Email: [snowykami@outlook.com](mailto:snowykami@outlook.com)
-- 🏡 主页：[https://www.sfkm.me](https://www.sfkm.me)
+- 🏡 主页：[https://www.sfkm.me](https://www.sfkm.me)（有更多联系方式）
 - ✍️ 博客：[https://blog.sfkm.me](https://blog.sfkm.me)（由 neo-blog 驱动）
 - 💞 女友：[https://www.smob.cc/](https://www.smob.cc/)
 
