@@ -32,7 +32,7 @@
 <img width="600px" src="https://wakatime.com/share/@018f0609-0e10-4d88-b866-3f5236eec84e/aa011113-ddb1-4347-a798-0223ce26648a.svg" width='160px'>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C721%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C721%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -48,24 +48,24 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6087 commits        ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-🌆 Daytime                6414 commits        ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-🌃 Evening                6036 commits        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-🌙 Night                  7081 commits        ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   4322 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Tuesday                  3871 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Wednesday                3403 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Thursday                 3035 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Friday                   3461 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Saturday                 3887 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Sunday                   3639 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -88,14 +88,8 @@ VS Code                  18 hrs 50 mins      ███████████�
 Mac                      18 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
-
 ```text
-Python                   24 repos            ████████░░░░░░░░░░░░░░░░░   31.58 % 
-TypeScript               22 repos            ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-Go                       8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-JCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+
 ```
 
 
@@ -105,5 +99,41 @@ JCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
 
+<<<<<<< HEAD
  Last Updated on 31/01/2026 19:53:03 UTC
 <!--END_SECTION:waka-->
+=======
+ Last Updated on 31/01/2026 20:20:20 UTC
+<!--END_SECTION:waka-->
+
+<div id="header">
+    <h2>Organizations 🏢 组织及团队</h2>
+</div>
+<div class="org">
+        <img src="https://avatars.githubusercontent.com/u/157652070?s=200&v=4" alt="trim-icon"  width="60px">
+        <img src="https://avatars.githubusercontent.com/u/122889621?s=200&v=4" alt="trim-icon" width="60px">
+        <img src="https://cdn.liteyuki.icu/static/sfs/logo_without_text.png" alt="trim-icon" width="60px">
+        <img src="https://gitlab.redrock.team/uploads/-/system/appearance/header_logo/1/Redrock.png" alt="trim-icon" width="60px">
+        <img src="https://cdn.liteyuki.icu/static/lmtr/logo_without_text.png" alt="trim-icon" width="60px">
+</div>
+
+- 红岩网校工作站后端研发部成员
+- 目前在快猫星云做开源项目的维护（实习）
+
+<div id="header">
+    <h2>Contacts 📨 联络</h2>
+    <h3>Website 个人网站</h3>
+    <a href="https://sfkm.me" target="_blank">sfkm.me</a><br>
+    <h3>E-mail 电邮</h3>
+    日常使用: <a href="mailto:snowykami@outlook.com" target="_blank">snowykami@outlook.com</a>
+    <br>
+    工作邮箱(LiteyukiStudio): <a href="mailto:s@liteyuki.icu" target="_blank">s@liteyuki.icu</a>
+    <br>
+    合作联络: <a href="mailto:a@sfkm.me" target="_blank">a@sfkm.me</a>
+    <br>
+    工作邮箱(RedrockTeam): <a href="mailto:sfkm@redrock.team" target="_blank">sfkm@redrock.team</a> | <a href="mailto:sfkm@redrock.cqupt.edu.cn" target="_blank">sfkm@redrock.cqupt.edu.cn</a>
+  
+</div>
+
+
+>>>>>>> d773ae91c31b25612fdf3a217b021e37d77b9ada
