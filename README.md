@@ -1,9 +1,31 @@
-<h1><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+This+is+SnowyKami" height="75px"/></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Snowykami;%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AF%E8%BF%9C%E9%87%8E%E5%8D%83%E6%9D%9F(Snowykami);Welcome+to+my+GitHub+profile;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub%E9%A1%B5%E9%9D%A2" alt="Typing SVG" /></a>
 
-## About Me 关于我
+# About Me / 关于我
 
-- [主页](https://www.sfkm.me)
-- [博客](https://blog.sfkm.me)
+## Interests & Hobbies 兴趣爱好
+
+- 喜欢折腾HomeLab和各种自建服务
+- 喜欢玩Minecraft，运营/运维过一些服务器
+- 热爱开源技术，喜欢折腾各种新技术
+
+## Roles & Positions  角色与职位
+
+- 是红岩网校工作站后端研发部成员
+- CQUPTHub技术顾问/后端部门负责人
+- 仙桃云智工作室负责人
+- 轻雪工作室（线上）成员
+
+## Skills & Technologies 技能与技术
+
+- 语言：`Python` `Go` `TypeScript` `JavaScript` `C` `C++` `Rust`
+- 常用技术栈：`React` `Next.js` `React Native` `Node.js` `Django` `FastAPI` `Gin` `Docker` `Kubernetes` `PostgreSQL` `Redis` `GraphQL`
+
+## Contacts & Links 联系与其他链接
+
+- Email: [snowykami@outlook.com](mailto:snowykami@outlook.com)
+- 主页：[https://www.sfkm.me](https://www.sfkm.me)
+- 博客：[https://blog.sfkm.me](https://blog.sfkm.me)（由neo-blog驱动）
+- 女友：[https://www.smob.cc/](https://www.smob.cc/)
 
 ## 🔥 My Stats & Wakatime  统计信息及编码时间
 <a href="https://gitroll.io/profile/u0GELgDDciiXVCJKo4XiI77tAjFh2" target="_blank"><img width="400px" src="https://gitroll.io/api/badges/profiles/v1/u0GELgDDciiXVCJKo4XiI77tAjFh2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
@@ -85,34 +107,3 @@ JCL                      1 repo              ░░░░░░░░░░░�
 
  Last Updated on 31/01/2026 19:53:03 UTC
 <!--END_SECTION:waka-->
-
-<div id="header">
-    <h2>Organizations 🏢 组织及团队</h2>
-</div>
-<div class="org">
-        <img src="https://avatars.githubusercontent.com/u/157652070?s=200&v=4" alt="trim-icon"  width="60px">
-        <img src="https://avatars.githubusercontent.com/u/122889621?s=200&v=4" alt="trim-icon" width="60px">
-        <img src="https://cdn.liteyuki.icu/static/sfs/logo_without_text.png" alt="trim-icon" width="60px">
-        <img src="https://gitlab.redrock.team/uploads/-/system/appearance/header_logo/1/Redrock.png" alt="trim-icon" width="60px">
-        <img src="https://cdn.liteyuki.icu/static/lmtr/logo_without_text.png" alt="trim-icon" width="60px">
-</div>
-
-- 红岩网校工作站后端研发部成员
-- 目前在快猫星云做开源项目的维护（实习）
-
-<div id="header">
-    <h2>Contacts 📨 联络</h2>
-    <h3>Website 个人网站</h3>
-    <a href="https://sfkm.me" target="_blank">sfkm.me</a><br>
-    <h3>E-mail 电邮</h3>
-    日常使用: <a href="mailto:snowykami@outlook.com" target="_blank">snowykami@outlook.com</a>
-    <br>
-    工作邮箱(LiteyukiStudio): <a href="mailto:s@liteyuki.icu" target="_blank">s@liteyuki.icu</a>
-    <br>
-    合作联络: <a href="mailto:a@sfkm.me" target="_blank">a@sfkm.me</a>
-    <br>
-    工作邮箱(RedrockTeam): <a href="mailto:sfkm@redrock.team" target="_blank">sfkm@redrock.team</a> | <a href="mailto:sfkm@redrock.cqupt.edu.cn" target="_blank">sfkm@redrock.cqupt.edu.cn</a>
-  
-</div>
-
-
