@@ -1,8 +1,6 @@
 <!-- kyechan99/capsule-render -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:0B1F4B,100:4DA3FF&text=Snowykami&fontColor=FFFFFF&fontSize=60&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:0052D4,50:4364F7,100:6FB1FC&text=%F0%9D%93%A2%F0%9D%93%B7%F0%9D%93%B8%F0%9D%93%BC%F0%9D%94%82%F0%9D%93%B4%F0%9D%93%AA%F0%9D%93%B6%F0%9D%93%B2&fontColor=FFFFFF&fontSize=60&fontAlignY=35&desc=Full-stack%20Developer&descSize=22&descAlignY=58)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Snowykami;%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AF%E8%BF%9C%E9%87%8E%E5%8D%83%E6%9D%9F(Snowykami);Welcome+to+my+GitHub+profile;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub%E9%A1%B5%E9%9D%A2" alt="Typing SVG" /></a>
-
-# About Me / 关于我
 
 ## Interests & Hobbies 兴趣爱好
 
@@ -109,4 +107,4 @@ Mac                      18 hrs 50 mins      ███████████�
 
 ![Lines of Code chart](https://raw.githubusercontent.com/snowykami/snowykami/main/assets/bar_graph.png)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0B1F4B,100:4DA3FF)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0052D4,50:4364F7,100:6FB1FC)
