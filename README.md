@@ -15,13 +15,6 @@
 - 🛠️ 常用技术栈：`React` `Next.js` `React Native` `Node.js` `Django` `FastAPI` `Gin` `Docker` `Kubernetes` `PostgreSQL` `Redis` `GraphQL`
 - 🎯 方向：`后端` `前端` `移动端` `DevOps` `云原生` `运维` `自动化`
 
-## Jobs & Projects 工作与项目
-
-- 目前正在北美人工智能公司 [39-ai](https://39-ai.com/) 实习
-- 曾在快猫星云实习，负责开源项目 [夜莺监控 Nightingale](https://n9e.github.io/zh/) 的部分功能开发和维护
-- [neo-blog](https://github.com/snowykami/neo-blog) 主要维护者
-- [轻雪机器人](https://bot.liteyuki.org) 的主要开发者
-
 ## Contacts & Links 联系与其他链接
 
 - 📧 Email: [snowykami@outlook.com](mailto:snowykami@outlook.com)
