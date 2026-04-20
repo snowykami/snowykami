@@ -18,18 +18,12 @@
 ## Contacts & Links 联系与其他链接
 
 - 📧 Email: [snowykami@outlook.com](mailto:snowykami@outlook.com)
-- 🏡 主页：[https://www.sfkm.me](https://www.sfkm.me)（有更多联系方式）
-- ✍️ 博客：[https://blog.sfkm.me](https://blog.sfkm.me)（由 neo-blog 驱动）
-- 💞 女友：[https://www.smob.cc/](https://www.smob.cc/)
+- 🏡 主页：[https://www.sfkm.me](https://www.sfkm.me)
+- ✍️ 博客：[https://blog.sfkm.me](https://blog.sfkm.me)
 
-## Roles & Positions  角色与职位
-
-- 🧑‍💻 [红岩网校工作站](https://redrock.team/) 后端研发部成员
-- 🧠 CQUPTHub 技术顾问 / 后端部门负责人
-- 🏢 [仙桃云智工作室](https://github.com/orgs/CloudAI-Studio)负责人
-- 🌙 [轻雪工作室 Liteyuki Studio](https://liteyuki.org)负责人
 
 ## 🔥 My Stats & Wakatime  统计信息及编码时间
+
 <a href="https://gitroll.io/profile/u0GELgDDciiXVCJKo4XiI77tAjFh2" target="_blank"><img width="400px" src="https://gitroll.io/api/badges/profiles/v1/u0GELgDDciiXVCJKo4XiI77tAjFh2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 <img width="600px" src="https://wakatime.com/share/@018f0609-0e10-4d88-b866-3f5236eec84e/aa011113-ddb1-4347-a798-0223ce26648a.svg" width='160px'>
 
