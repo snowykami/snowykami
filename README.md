@@ -7,13 +7,13 @@
 - 🏠 HomeLab & Selfhost
 - ⛏️ Minecraft
 - 💡 Opensource / 开源
-- 📚 从事开发相关的工作
 
 ## 技术栈
 
 - 🧩 语言：`Python` `Go` `TypeScript` `JavaScript` `C` `C++` `Rust`
 - 🛠️ 常用技术栈：`React` `Next.js` `React Native` `Node.js` `Django` `FastAPI` `Gin` `Docker` `Kubernetes` `PostgreSQL` `Redis` `GraphQL`
 - 🎯 方向：`后端` `前端` `移动端` `DevOps` `云原生` `运维` `自动化`
+- 正在从事 DevOps、CICDCO、可观测等领域的组件开发工作
 
 ## Contacts & Links 联系方式
 
