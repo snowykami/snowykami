@@ -2,20 +2,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:0052D4,50:4364F7,100:6FB1FC&text=%F0%9D%93%A2%F0%9D%93%B7%F0%9D%93%B8%F0%9D%93%BC%F0%9D%94%82%F0%9D%93%B4%F0%9D%93%AA%F0%9D%93%B6%F0%9D%93%B2&fontColor=FFFFFF&fontSize=60&fontAlignY=35&desc=Full-stack%20Developer&descSize=22&descAlignY=58)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Snowykami;%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E6%98%AF%E8%BF%9C%E9%87%8E%E5%8D%83%E6%9D%9F(Snowykami);Welcome+to+my+GitHub+profile;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub%E9%A1%B5%E9%9D%A2" alt="Typing SVG" /></a>
 
-## Interests & Hobbies 兴趣爱好
+## Interests & 感兴趣的
 
-- 🏠 喜欢折腾 HomeLab 和各种自建服务
-- ⛏️ 喜欢玩 Minecraft，运营/运维过一些服务器，可以来一起玩
-- 💡 热爱开源技术，喜欢折腾各种新技术，可以一起交流
-- 📚 有精力的话想学习更多的技术，持续积累开发经验
+- 🏠 HomeLab & Selfhost
+- ⛏️ Minecraft
+- 💡 Opensource / 开源
+- 📚 从事开发相关的工作
 
-## Skills & Technologies 技能与技术
+## 技术栈
 
 - 🧩 语言：`Python` `Go` `TypeScript` `JavaScript` `C` `C++` `Rust`
 - 🛠️ 常用技术栈：`React` `Next.js` `React Native` `Node.js` `Django` `FastAPI` `Gin` `Docker` `Kubernetes` `PostgreSQL` `Redis` `GraphQL`
 - 🎯 方向：`后端` `前端` `移动端` `DevOps` `云原生` `运维` `自动化`
 
-## Contacts & Links 联系与其他链接
+## Contacts & Links 联系方式
 
 - 📧 Email: [snowykami@outlook.com](mailto:snowykami@outlook.com)
 - 🏡 主页：[https://www.sfkm.me](https://www.sfkm.me)
