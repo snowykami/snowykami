@@ -19,6 +19,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
+      # The action pushes via https://<token>@github.com, which only works for PATs;
+      # rewrite it to the x-access-token form required by GITHUB_TOKEN.
+      # The action container uses $RUNNER_TEMP/_github_home as its HOME.
+      - name: Configure Git Credentials
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/_github_home"
+          git config --file "$RUNNER_TEMP/_github_home/.gitconfig" \
+            "url.https://x-access-token:${TOKEN}@github.com/.insteadOf" "https://${TOKEN}@github.com/"
+
       - name: Update README Stats
         uses: anmol098/waka-readme-stats@master
         env:
