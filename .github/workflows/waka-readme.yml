@@ -4,11 +4,14 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 * * * *"
+    # runs at 12 AM UTC (8 AM UTC+8)
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -16,9 +19,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: Checkout Repository
+      - name: Update README Stats
         uses: anmol098/waka-readme-stats@master
+        env:
+          # GITHUB_TOKEN cannot read the authenticated user, so specify the user explicitly
+          INPUT_GH_USER: ${{ github.repository_owner }}
         with:
-            GH_TOKEN: ${{ secrets.GH_TOKEN_2 }}
+            GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
             SHOW_PROJECTS: "False"
